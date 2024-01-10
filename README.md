@@ -1,5 +1,7 @@
 # NUST_Digital-Image-Processing_Labs
 
+PS: I WILL ADD THE JUPYTER NOTEBOOKS FOR OTHER CONCEPTS LATER. YOU CAN FIND THE CODE IN THE PDFS AS WELL
+
 In this repository, you will find the implementation of some very important digital image processing concepts.
 
 Unfortunately, when I coded this for my 3rd semester, I didn't push it to github. My laptop crashed and I lost most of my work. 
