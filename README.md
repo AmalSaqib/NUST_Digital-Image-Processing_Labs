@@ -6,5 +6,6 @@ Unfortunately, when I coded this for my 3rd semester, I didn't push it to github
 
 But I still have the source code written, although I don't have all the files. However, this does the work! I hope someday I will have the time to add all relevant files. This will do for now.
 
+Run them on your systems with your input images. The algorithms work just fine.
 
 Happy Coding!
